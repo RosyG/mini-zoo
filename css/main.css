@@ -1,0 +1,17 @@
+.contenedor-imagenes {
+  background-color: #025383;/*Fondo en la imagen*/
+  display: inline-block;
+  width: 30%;
+}
+.quitarFiltro {
+  filter: none;
+}
+.gray {
+  filter:grayscale(100%);
+}
+.sepia {
+  filter: sepia(100%);
+}
+.invert {
+  filter: invert(100%);
+}
